@@ -1,7 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Add styles to center the container */
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh; /* Set the height of the body to 100% of the viewport height */
+      margin: 0;    /* Remove default margin */
+    }
+
+    /* Add styles to center the image within the container */
+    .image-container {
+      text-align: center;
+    }
+  </style>
+  <title>Your GitHub Profile</title>
+</head>
+<body>
+
+<!-- Container for centering -->
 <div class="image-container">
   <!-- Your GitHub profile gif -->
   <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="GitHub Profile GIF">
 </div>
+
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
 <h3 align="center"> I'm a data dazzler just starting to groove!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ea/32/07/ea32077eff40123f1659f8dc332d586b.gif">
