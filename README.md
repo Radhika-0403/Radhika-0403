@@ -1,29 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Radhika Aggarwal's Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-
-    .centered {
-      text-align: center;
-    }
-
-    .profile-image {
-      width: 400px; /* Adjust the width as needed */
-    }
-  </style>
-</head>
-<body>
-
-<div class="centered">
-  <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
-</div>
-
+<p align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
 <h3 align="center"> I'm a data dazzler just starting to groove!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ea/32/07/ea32077eff40123f1659f8dc332d586b.gif">
