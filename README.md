@@ -1,6 +1,9 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif)
-<h3 align="center">Hi 👋, I'm Radhika Aggarwal</h3>
-<h5 align="center"> I'm a data dazzler just starting to groove!</h5>
+<div class="image-container">
+  <!-- Your GitHub profile gif -->
+  <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="GitHub Profile GIF">
+</div>
+<h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
+<h3 align="center"> I'm a data dazzler just starting to groove!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ea/32/07/ea32077eff40123f1659f8dc332d586b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
