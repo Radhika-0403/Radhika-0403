@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/6mJHSG9pZ3WYcZZh6)(https://radhika.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Finternational-school-of-ai-data-science%2Fhow-to-not-learn-data-science-in-2024-5c100eb40c43&psig=AOvVaw1wmPY1RClH6Z7XWymokAYw&ust=1704881102317000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCID7sZ6H0IMDFQAAAAAdAAAAABAK)(https://radhika.io)
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
 <h3 align="center"> I'm a data dazzler just starting to groove!</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ea/32/07/ea32077eff40123f1659f8dc332d586b.gif">
