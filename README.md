@@ -3,33 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Radhika Aggarwal's Profile</title>
   <style>
-    /* Add styles to center the container */
     body {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh; /* Set the height of the body to 100% of the viewport height */
-      margin: 0;    /* Remove default margin */
+      font-family: Arial, sans-serif;
     }
 
-    /* Add styles to center the image within the container */
-    .image-container {
+    .centered {
       text-align: center;
     }
+
+    .profile-image {
+      width: 400px; /* Adjust the width as needed */
+    }
   </style>
-  <title>Your GitHub Profile</title>
 </head>
 <body>
 
-<!-- Container for centering -->
-<div class="image-container">
-  <!-- Your GitHub profile gif -->
-  <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="GitHub Profile GIF">
+<div class="centered">
+  <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
 </div>
-
-</body>
-</html>
 
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
 <h3 align="center"> I'm a data dazzler just starting to groove!</h3>
