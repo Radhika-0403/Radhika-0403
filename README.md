@@ -8,13 +8,11 @@
 
 - 🔭 **Expertise: Navigating Social Media Dynamics with Statistical Techniques**
    
-- 🌱 **Continuous Learning: Mastering SAS, ML Techniques, and Python**
+- 🌱 **Continuous Learning: Mastering SAS, R , ML Techniques, and Python**
 
 - 🏗️ **Research Focus: Unraveling Insights in Seismic Events for Infrastructure Resilience**
 
-- 👨‍💻 You can explore all my projects on my LinkedIn profile.
-
-  Feel free to connect and discover the exciting ventures in data analysis and beyond! 🌐✨
+- 👨‍💻 **You can explore all my projects on my LinkedIn profile.🌐✨**
 
 - 💬 Ask me about **Data cleaning Data Analysis and Data Reporting**
 
