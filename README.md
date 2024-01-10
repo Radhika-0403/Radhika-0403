@@ -2,7 +2,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hey👋, I'm Radhika Aggarwal</h1>
-<h3 align="center"> **Data Enthusiast Embarking on a Journey of Exploration and Venture!** </h3>
+<h3 align="center"> Data Enthusiast Embarking on a Journey of Exploration and Venture! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 **You can explore all my projects on my LinkedIn profile.🌐✨**
 
-- 💬 Ask me about **Data cleaning Data Analysis and Data Reporting**
+- 💬 Ask me about **Data cleaning, Data Analysis and Data Reporting**
 
 - 📫 Reach out to me at **Radzaggarwal18@gmail.com** for intriguing data discussions.
 
