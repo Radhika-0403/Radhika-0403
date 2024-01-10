@@ -10,12 +10,13 @@
    
 - 🌱 **Continuous Learning: Mastering SAS, ML Techniques, and Python**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 👨‍💻 You can explore all my projects on my LinkedIn profile: [LinkedIn Profile]
+- 🏗️ **Research Focus: Unraveling Insights in Seismic Events for Infrastructure Resilience**
 
-Feel free to connect and discover the exciting ventures in data analysis and beyond! 🌐✨
+- 👨‍💻 You can explore all my projects on my LinkedIn profile.
 
-- 💬 Ask me about **Data cleaning and Data Analysis**
+  Feel free to connect and discover the exciting ventures in data analysis and beyond! 🌐✨
+
+- 💬 Ask me about **Data cleaning Data Analysis and Data Reporting**
 
 - 📫 Reach out to me at **Radzaggarwal18@gmail.com** for intriguing data discussions.
 
