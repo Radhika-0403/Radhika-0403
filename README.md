@@ -1,22 +1,20 @@
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
 </p>
-<h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
-<h3 align="center"> 📊 Data Enthusiast on a Journey of Exploration </h3>
+<h1 align="center">Hey👋, I'm Radhika Aggarwal</h1>
+<h3 align="center"> 📊 Data Enthusiast on a Journey of Exploration and Venture </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
-- 🔭 I’m currently working on **Predictive Analysis On Cancer Dataset Using Machine learning Techniques**
+- 🔭 **Expertise: Navigating Social Media Dynamics with Statistical Techniques**
    
-- 🌱 I’m currently learning **SAS, Machine Learning Techniques and Python**
-
-- 🤝 I’m looking for help with **Machine Learning approach on Cancer Dataset**
+- 🌱 **Continuous Learning: Mastering SAS, ML Techniques, and Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about **Data cleaning and Data Analysis**
 
-- 📫 How to reach me **Radzaggarwal18@gmail.**
+- 📫 Reach out to me at **Radzaggarwal18@gmail.com** for intriguing data discussions.
 
 
 
