@@ -10,7 +10,7 @@
    
 - 🌱 **Continuous Learning: Mastering SAS, R , ML Techniques, and Python**
 
-- 🏗️ **Research Focus: Unraveling Insights in Seismic Events for Infrastructure Resilience**
+- 🏗️ **Research Focus: Survival Analysis Based on Shaking Intensity of Earthquake**
 
 - 👨‍💻 **You can explore all my projects on my LinkedIn profile.🌐✨**
 
