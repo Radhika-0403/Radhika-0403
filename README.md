@@ -2,7 +2,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hey👋, I'm Radhika Aggarwal</h1>
-<h3 align="center"> 📊 Data Enthusiast on a Journey of Exploration and Venture </h3>
+<h3 align="center"> **Data Enthusiast Embarking on a Journey of Exploration and Venture!** </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
@@ -11,6 +11,9 @@
 - 🌱 **Continuous Learning: Mastering SAS, ML Techniques, and Python**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/aryanil-d-076006209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 You can explore all my projects on my LinkedIn profile: [LinkedIn Profile]
+
+Feel free to connect and discover the exciting ventures in data analysis and beyond! 🌐✨
 
 - 💬 Ask me about **Data cleaning and Data Analysis**
 
