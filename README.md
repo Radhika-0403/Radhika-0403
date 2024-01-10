@@ -2,7 +2,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Radhika Aggarwal</h1>
-<h3 align="center"> I'm a data dazzler just starting to groove!</h3>
+<h3 align="center"> 📊 Data Enthusiast on a Journey of Exploration </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanilad&label=Profile%20views&color=0e75b6&style=flat" alt="aryanilad" /> </p>
 
@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **Data cleaning and Data Analysis**
 
-- 📫 How to reach me **aryanilofficial26@gmail.com**
+- 📫 How to reach me **Radzaggarwal18@gmail.**
 
-- ⚡ Fun fact **I can voice Donald duck**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
