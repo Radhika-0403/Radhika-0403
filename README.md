@@ -31,6 +31,6 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="git" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Radhika0403&show_icons=true&locale=en&layout=compact" alt="aryanilad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhika-0403&show_icons=true&locale=en&layout=compact" alt="aryanilad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Radhika0403&show_icons=true&locale=en" alt="aryanilad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhika-0403&show_icons=true&locale=en" alt="aryanilad" /></p>
