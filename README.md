@@ -1,13 +1,3 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Include Font Awesome CSS for icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-  <title>Connect with me</title>
-</head>
-<body>
-
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
 </p>
@@ -61,5 +51,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhika-0403&show_icons=true&locale=en" alt="radhika-0403" /></p>
 
- </body>
-</html>
+ 
