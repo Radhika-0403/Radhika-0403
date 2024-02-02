@@ -29,7 +29,7 @@
   <br>
 
   <!-- Email link with icon -->
-  <a href="radzaggarwal18@gmail.com">
+  <a href="mailto:radzaggarwal18@gmail.com">
     <i class="far fa-envelope"></i> Email
   </a>
   <br>
