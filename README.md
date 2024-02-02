@@ -22,6 +22,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- GitHub link with icon -->
+  <a href="https://github.com/radhika-0403" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+  <br>
+
+  <!-- Email link with icon -->
+  <a href="radzaggarwal18@gmail.com">
+    <i class="far fa-envelope"></i> Email
+  </a>
+  <br>
+
+  <!-- LinkedIn link with icon -->
+  <a href="https://www.linkedin.com/in/radhika-aggarwal2001/" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
