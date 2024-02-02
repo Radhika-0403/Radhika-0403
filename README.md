@@ -1,3 +1,13 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Include Font Awesome CSS for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <title>Connect with me</title>
+</head>
+<body>
+
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1066/1*GnvSOTyYNS1bLl_5q2TjhA.gif" alt="MasterHead">
 </p>
@@ -47,6 +57,9 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="git" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhika-0403&show_icons=true&locale=en&layout=compact" alt="aryanilad" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radhika-0403&show_icons=true&locale=en&layout=compact" alt="radhika-0403" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhika-0403&show_icons=true&locale=en" alt="aryanilad" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radhika-0403&show_icons=true&locale=en" alt="radhika-0403" /></p>
+
+ </body>
+</html>
